@@ -4,8 +4,8 @@
   <artifactId>chatter</artifactId>
   <versioning>
     <versions>
-      <version>0.0.2-SNAPSHOT</version>
+      <version>0.0.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150114142334</lastUpdated>
+    <lastUpdated>20150114142553</lastUpdated>
   </versioning>
 </metadata>
